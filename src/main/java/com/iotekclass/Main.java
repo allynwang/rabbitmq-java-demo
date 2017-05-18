@@ -21,6 +21,7 @@ public class Main {
             producer.sendMessage(message);
             System.out.println("Message Number "+ i +" sent.");
         }
+        System.out.println("test");
     }
 
     /**
